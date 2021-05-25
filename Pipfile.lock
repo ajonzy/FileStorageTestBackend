@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "28a388894c9dd75c856b6447ff0c33f4eb77b8b8b33b8ca579b525e130aa9c18"
+            "sha256": "639fd1457a456199d5948a7a738f2de52c519eafa230ba45fb2320837c745644"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -38,6 +38,13 @@
             ],
             "index": "pypi",
             "version": "==3.0.8"
+        },
+        "flask-file-upload": {
+            "hashes": [
+                "sha256:292fddf92ba062ec89efe7512aa2d01b6150054f615253b6761410d2042e8f7d"
+            ],
+            "index": "pypi",
+            "version": "==0.1.4"
         },
         "flask-heroku": {
             "hashes": [
